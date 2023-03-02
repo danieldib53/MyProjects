@@ -1,0 +1,143 @@
+html,
+body {
+  background-color: black;
+  height: 100%;
+  margin: 0;
+}
+.container {
+  display: flex;
+  flex-flow: row;
+  width: 100%;
+  height: 100%;
+}
+
+.leftside {
+  width: 50%;
+  background-color: white;
+}
+
+.rightside {
+  display: flex;
+  flex-flow: column wrap;
+  width: 50%;
+  background-color: black;
+}
+.infoshow {
+  padding: 20px;
+  padding-bottom: 30px;
+  margin-top: 30%;
+  margin-left: 60px;
+  margin-right: 60px;
+  font-size: small;
+  color: black;
+  background-color: yellow;
+}
+.infoshow h1 {
+  display: flex;
+  justify-content: center;
+}
+.firstdate {
+  background-color: grey;
+  margin: 30px;
+  margin-right: 0px;
+  width: 220px;
+  height: 220px;
+}
+
+.seconddate {
+  background-color: grey;
+  margin: 30px;
+  width: 220px;
+  height: 220px;
+}
+
+.thirddate {
+  background-color: grey;
+  margin: 30px;
+  width: 220px;
+  height: 220px;
+}
+
+.firstdate h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40%;
+}
+
+.seconddate h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40%;
+}
+
+.thirddate h1 {
+  display: flex;
+  justify-content: center;
+  margin-top: 40%;
+}
+
+.infofirst {
+  background-color: white;
+  margin: 30px;
+  padding-right: 160px;
+  width: 620px;
+  height: 220px;
+}
+
+.infosecond {
+  background-color: white;
+  margin: 30px;
+  padding-right: 160px;
+  width: 620px;
+  height: 220px;
+}
+
+.infothird {
+  background-color: white;
+  margin: 30px;
+  padding-right: 160px;
+  width: 620px;
+  height: 220px;
+}
+
+.infofirst h2 {
+  margin: 15px;
+}
+
+.infosecond h2 {
+  margin: 15px;
+}
+
+.infothird h2 {
+  margin: 15px;
+}
+.infofirst p {
+  margin: 15px;
+}
+
+.infosecond p {
+  margin: 15px;
+}
+
+.infothird p {
+  margin: 15px;
+}
+
+.infofirst button {
+  margin-left: 15px;
+  background-color: transparent;
+  width: 95px;
+  height: 55px;
+}
+.infosecond button {
+  margin-left: 15px;
+  background-color: transparent;
+  width: 95px;
+  height: 55px;
+}
+.infothird button {
+  margin-left: 15px;
+  background-color: transparent;
+  width: 95px;
+  height: 55px;
+}

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <link rel="stylesheet" href="mystyle.css">
+    </head>
+    <body>
+        <div>
+            <h1>Harvard Signup</h1>
+        </div>
+        <br>
+        First Name: <br><br><input type="Text"><br><br>
+        Family Name: <br><br><input type="Text"><br><br>
+        Email Adress: <br><br><input type="email"><br><br>
+        Username: <br><br><input type="Text"><br><br>
+        Password: <br><br><input type="password"><br><br>
+        <button type="submit" class="Button"">Submit Form</button><br><br>
+        <a href="SecondPage.html"> Already have an account?, Sign in</a><br><br>
+        <img src="Image/Harvard.png" width="200px" height="150px">
+    </body>
+</html>

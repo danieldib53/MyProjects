@@ -1,0 +1,18 @@
+div {
+    background: black;
+    color: white;
+    width: auto;
+    height: 130px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    padding-top: 2px;
+}
+
+body {
+    text-align: center;
+}
+
+.Button {
+    height: 40px;
+}

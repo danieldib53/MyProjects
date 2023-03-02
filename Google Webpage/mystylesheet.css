@@ -1,0 +1,97 @@
+html,
+body {
+    height: 100%;
+}
+
+body {
+    background: white;
+}
+
+.flex-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+}
+
+.top {
+    display: flex;
+    justify-content: flex-end;
+    padding-top: 20px;
+    padding-right: 30px;
+    width: 100%;
+}
+
+.top a {
+    color: grey;
+    text-decoration: none;
+}
+
+.top a:hover{
+    text-decoration: underline;
+}
+
+.middle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 200px 20px;
+    margin-bottom: 10px;
+}
+
+
+.google{
+    text-align: center;
+    font-size: 100px;
+    letter-spacing: -15px;
+}
+
+.google span:nth-child(1){
+    color: rgb(51, 116, 177);
+}
+.google span:nth-child(2){
+    color: red;
+}
+.google span:nth-child(3){
+    color: orange;
+}
+.google span:nth-child(4){
+    color: rgb(51, 116, 177);
+}
+.google span:nth-child(5){
+    color: green;
+}
+.google span:nth-child(6){
+    color: red;
+}
+
+.search {
+    display: flex;
+    flex: 1;
+    /* align-items: center; */
+    justify-content: center;
+}
+
+.searchbar {
+    width: 30%;
+}
+
+.searchbar-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* position: fixed;
+    bottom: 0; */
+    width: 100%;
+    height: 100px;
+    background-color: lightgrey;
+}
+
+.bottom > div {
+  display: flex;
+  gap: 20px;
+}
