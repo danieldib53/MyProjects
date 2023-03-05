@@ -1,0 +1,129 @@
+html,
+body {
+  width: 99%;
+  height: 99%;
+}
+
+.Container {
+  flex-flow: column wrap;
+  display: flex;
+  height: 100%;
+  width: 100%;
+}
+
+.leftside {
+  display: flex;
+  width: 30%;
+  height: 100%;
+}
+
+.rightside {
+  flex-flow: column wrap;
+  display: flex;
+  height: 100%;
+  width: 70%;
+}
+
+.chats {
+  display: flex;
+  flex-flow: column wrap;
+  width: 100%;
+  height: 100%;
+}
+.icons {
+  background-color: #1e2124;
+  width: 20%;
+  height: 100%;
+}
+
+.searchbar {
+  display: flex;
+  background-color: #36393e;
+  border-bottom: 1px solid black;
+  width: 100%;
+  height: 8%;
+  align-items: center;
+  justify-content: center;
+}
+
+.searchbar input {
+  background-color: #282b30;
+  color: grey;
+  height: 40%;
+  width: 80%;
+}
+
+.flist {
+  background-color: #36393e;
+  width: 100%;
+  height: 85%;
+}
+
+.profile {
+  background-color: #282b30;
+  width: 100%;
+  flex-grow: 1;
+}
+.topbar {
+  display: flex;
+  border-bottom: 1px solid black;
+  background-color: #424549;
+  height: 8%;
+  width: 100%;
+}
+
+.chatlog {
+  background-color: #424549;
+  width: 100%;
+  height: 85%;
+}
+
+.chatbox {
+  align-items: center;
+  justify-content: center;
+  background-color: #424549;
+  display: flex;
+  width: 100%;
+  flex-grow: 1;
+}
+
+.chatbox input {
+  color: grey;
+  background-color: darkgrey;
+  border: 0;
+  border-radius: 10px;
+  width: 90%;
+  height: 50%;
+}
+
+.user {
+  align-items: center;
+  justify-content: flex-end;
+  display: flex;
+  width: 15%;
+  margin: 5px;
+}
+
+.user h1 {
+  color: grey;
+}
+
+.user h2 {
+  margin: 8px;
+  color: white;
+}
+
+.useroptions {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  margin: 10px;
+  width: 85%;
+}
+
+.useroptions input {
+  width: 30%;
+  height: 50%;
+  background-color: #282b30;
+  color: grey;
+}
