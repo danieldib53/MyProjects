@@ -1,0 +1,15 @@
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/Get Max.csproj.AssemblyReference.cache
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/Get Max.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/Get Max.AssemblyInfoInputs.cache
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/Get Max.AssemblyInfo.cs
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/Get Max.csproj.CoreCompileInputs.cache
+/Users/daniel/Desktop/MyProjects/School/Get Max/bin/Debug/net7.0/Get Max
+/Users/daniel/Desktop/MyProjects/School/Get Max/bin/Debug/net7.0/Get Max.deps.json
+/Users/daniel/Desktop/MyProjects/School/Get Max/bin/Debug/net7.0/Get Max.runtimeconfig.json
+/Users/daniel/Desktop/MyProjects/School/Get Max/bin/Debug/net7.0/Get Max.dll
+/Users/daniel/Desktop/MyProjects/School/Get Max/bin/Debug/net7.0/Get Max.pdb
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/Get Max.dll
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/refint/Get Max.dll
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/Get Max.pdb
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/Get Max.genruntimeconfig.cache
+/Users/daniel/Desktop/MyProjects/School/Get Max/obj/Debug/net7.0/ref/Get Max.dll
