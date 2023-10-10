@@ -1,0 +1,15 @@
+/Users/daniel/Projects/Program/Program/bin/Debug/net7.0/Program
+/Users/daniel/Projects/Program/Program/bin/Debug/net7.0/Program.deps.json
+/Users/daniel/Projects/Program/Program/bin/Debug/net7.0/Program.runtimeconfig.json
+/Users/daniel/Projects/Program/Program/bin/Debug/net7.0/Program.dll
+/Users/daniel/Projects/Program/Program/bin/Debug/net7.0/Program.pdb
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/Program.csproj.AssemblyReference.cache
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/Program.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/Program.AssemblyInfoInputs.cache
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/Program.AssemblyInfo.cs
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/Program.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/Program.dll
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/refint/Program.dll
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/Program.pdb
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/Program.genruntimeconfig.cache
+/Users/daniel/Projects/Program/Program/obj/Debug/net7.0/ref/Program.dll

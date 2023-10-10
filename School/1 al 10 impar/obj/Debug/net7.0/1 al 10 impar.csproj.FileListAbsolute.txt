@@ -1,0 +1,15 @@
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/1 al 10 impar.csproj.AssemblyReference.cache
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/1 al 10 impar.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/1 al 10 impar.AssemblyInfoInputs.cache
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/1 al 10 impar.AssemblyInfo.cs
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/1 al 10 impar.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/Program/1 al 10 impar/bin/Debug/net7.0/1 al 10 impar
+/Users/daniel/Projects/Program/1 al 10 impar/bin/Debug/net7.0/1 al 10 impar.deps.json
+/Users/daniel/Projects/Program/1 al 10 impar/bin/Debug/net7.0/1 al 10 impar.runtimeconfig.json
+/Users/daniel/Projects/Program/1 al 10 impar/bin/Debug/net7.0/1 al 10 impar.dll
+/Users/daniel/Projects/Program/1 al 10 impar/bin/Debug/net7.0/1 al 10 impar.pdb
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/1 al 10 impar.dll
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/refint/1 al 10 impar.dll
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/1 al 10 impar.pdb
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/1 al 10 impar.genruntimeconfig.cache
+/Users/daniel/Projects/Program/1 al 10 impar/obj/Debug/net7.0/ref/1 al 10 impar.dll

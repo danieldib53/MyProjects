@@ -1,0 +1,15 @@
+/Users/daniel/Projects/Program/Rock paper Scissors/bin/Debug/net7.0/Rock paper Scissors
+/Users/daniel/Projects/Program/Rock paper Scissors/bin/Debug/net7.0/Rock paper Scissors.deps.json
+/Users/daniel/Projects/Program/Rock paper Scissors/bin/Debug/net7.0/Rock paper Scissors.runtimeconfig.json
+/Users/daniel/Projects/Program/Rock paper Scissors/bin/Debug/net7.0/Rock paper Scissors.dll
+/Users/daniel/Projects/Program/Rock paper Scissors/bin/Debug/net7.0/Rock paper Scissors.pdb
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/Rock paper Scissors.csproj.AssemblyReference.cache
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/Rock paper Scissors.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/Rock paper Scissors.AssemblyInfoInputs.cache
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/Rock paper Scissors.AssemblyInfo.cs
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/Rock paper Scissors.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/Rock paper Scissors.dll
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/refint/Rock paper Scissors.dll
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/Rock paper Scissors.pdb
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/Rock paper Scissors.genruntimeconfig.cache
+/Users/daniel/Projects/Program/Rock paper Scissors/obj/Debug/net7.0/ref/Rock paper Scissors.dll

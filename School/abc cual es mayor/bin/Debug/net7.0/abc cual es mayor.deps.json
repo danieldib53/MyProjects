@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "abc cual es mayor/1.0.0": {
+        "runtime": {
+          "abc cual es mayor.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "abc cual es mayor/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

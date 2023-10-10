@@ -1,0 +1,15 @@
+/Users/daniel/Projects/Program/Como te llamas/bin/Debug/net7.0/Como te llamas
+/Users/daniel/Projects/Program/Como te llamas/bin/Debug/net7.0/Como te llamas.deps.json
+/Users/daniel/Projects/Program/Como te llamas/bin/Debug/net7.0/Como te llamas.runtimeconfig.json
+/Users/daniel/Projects/Program/Como te llamas/bin/Debug/net7.0/Como te llamas.dll
+/Users/daniel/Projects/Program/Como te llamas/bin/Debug/net7.0/Como te llamas.pdb
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/Como te llamas.csproj.AssemblyReference.cache
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/Como te llamas.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/Como te llamas.AssemblyInfoInputs.cache
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/Como te llamas.AssemblyInfo.cs
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/Como te llamas.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/Como te llamas.dll
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/refint/Como te llamas.dll
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/Como te llamas.pdb
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/Como te llamas.genruntimeconfig.cache
+/Users/daniel/Projects/Program/Como te llamas/obj/Debug/net7.0/ref/Como te llamas.dll

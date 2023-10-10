@@ -1,0 +1,15 @@
+/Users/daniel/Projects/Program/Calculator/bin/Debug/net7.0/Calculator
+/Users/daniel/Projects/Program/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/daniel/Projects/Program/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/daniel/Projects/Program/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/daniel/Projects/Program/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/daniel/Projects/Program/Calculator/obj/Debug/net7.0/ref/Calculator.dll

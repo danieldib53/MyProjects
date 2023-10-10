@@ -1,0 +1,15 @@
+/Users/daniel/Projects/Program/Sumar 1 al 5/bin/Debug/net7.0/Sumar 1 al 5
+/Users/daniel/Projects/Program/Sumar 1 al 5/bin/Debug/net7.0/Sumar 1 al 5.deps.json
+/Users/daniel/Projects/Program/Sumar 1 al 5/bin/Debug/net7.0/Sumar 1 al 5.runtimeconfig.json
+/Users/daniel/Projects/Program/Sumar 1 al 5/bin/Debug/net7.0/Sumar 1 al 5.dll
+/Users/daniel/Projects/Program/Sumar 1 al 5/bin/Debug/net7.0/Sumar 1 al 5.pdb
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/Sumar 1 al 5.csproj.AssemblyReference.cache
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/Sumar 1 al 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/Sumar 1 al 5.AssemblyInfoInputs.cache
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/Sumar 1 al 5.AssemblyInfo.cs
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/Sumar 1 al 5.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/Sumar 1 al 5.dll
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/refint/Sumar 1 al 5.dll
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/Sumar 1 al 5.pdb
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/Sumar 1 al 5.genruntimeconfig.cache
+/Users/daniel/Projects/Program/Sumar 1 al 5/obj/Debug/net7.0/ref/Sumar 1 al 5.dll

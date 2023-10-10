@@ -1,0 +1,15 @@
+/Users/daniel/Projects/Program/abc cual es mayor/bin/Debug/net7.0/abc cual es mayor
+/Users/daniel/Projects/Program/abc cual es mayor/bin/Debug/net7.0/abc cual es mayor.deps.json
+/Users/daniel/Projects/Program/abc cual es mayor/bin/Debug/net7.0/abc cual es mayor.runtimeconfig.json
+/Users/daniel/Projects/Program/abc cual es mayor/bin/Debug/net7.0/abc cual es mayor.dll
+/Users/daniel/Projects/Program/abc cual es mayor/bin/Debug/net7.0/abc cual es mayor.pdb
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/abc cual es mayor.csproj.AssemblyReference.cache
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/abc cual es mayor.GeneratedMSBuildEditorConfig.editorconfig
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/abc cual es mayor.AssemblyInfoInputs.cache
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/abc cual es mayor.AssemblyInfo.cs
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/abc cual es mayor.csproj.CoreCompileInputs.cache
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/abc cual es mayor.dll
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/refint/abc cual es mayor.dll
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/abc cual es mayor.pdb
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/abc cual es mayor.genruntimeconfig.cache
+/Users/daniel/Projects/Program/abc cual es mayor/obj/Debug/net7.0/ref/abc cual es mayor.dll
